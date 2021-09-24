@@ -1,5 +1,5 @@
 ## ECommerce Web Shop built with react 
-link: https://ecommercejsreactapp.netlify.app
+Available on: https://ecommercejsreactapp.netlify.app
 
 # Getting Started with Create React App
 
